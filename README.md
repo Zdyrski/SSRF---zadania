@@ -10,7 +10,7 @@ https://application.security/free-application-security-training/server-side-requ
 <br>
 
 ## Zadanie 2
-Zadanie polega na uzyskaniu zasobu, który jest dostępny tylko z poziomu serwera. Jako raport wyślij zrzut ekranu i zmodyfikowane zapytanie, jakie zostało użyte. 
+Zadanie polega na uzyskaniu zasobu, który jest dostępny tylko z poziomu serwera. Użyj Inspect. Jako raport wyślij zrzut ekranu i zmodyfikowane zapytanie, jakie zostało użyte. 
 <details>
 <summary>Hint</summary>
   <br>
