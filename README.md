@@ -5,10 +5,9 @@ W laboratorium na jednym z hostów zostanie uruchomiony serwer z naszą podatną
 
 ## Zadanie 1
 Pod podanym linkiem znajduje się interaktywny tutorial przedstawiający jak wyglądał hack na Capital One, wspomniany w prezentacji.Jako rozwiązanie wystarczy przesłać screenshot z ostatniego panelu tutorialu.
+https://application.security/free-application-security-training/server-side-request-forgery-in-capital-one
 
 <br>
-
-https://application.security/free-application-security-training/server-side-request-forgery-in-capital-one
 
 ## Zadanie 2
 Zadanie polega na uzyskaniu zasobu, który jest dostępny tylko z poziomu serwera. Jako raport wyślij zrzut ekranu i zmodyfikowane zapytanie, jakie zostało użyte. 
