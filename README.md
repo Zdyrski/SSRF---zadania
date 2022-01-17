@@ -4,7 +4,8 @@ W laboratorium na jednym z hostów zostanie uruchomiony serwer z naszą podatną
 <br>
 
 ## Zadanie 1
-Pod podanym linkiem znajduje się interaktywny tutorial przedstawiający jak wyglądał hack na Capital One, wspomniany w prezentacji.Jako rozwiązanie wystarczy przesłać screenshot z ostatniego panelu tutorialu.<br>
+Pod podanym linkiem znajduje się interaktywny tutorial przedstawiający jak wyglądał hack na Capital One, wspomniany w prezentacji.Jako rozwiązanie wystarczy przesłać screenshot z ostatniego panelu tutorialu.
+<br>
 https://application.security/free-application-security-training/server-side-request-forgery-in-capital-one
 
 ## Zadanie 2
