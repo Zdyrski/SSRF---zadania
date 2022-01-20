@@ -3,13 +3,13 @@ W laboratorium na jednym z hostów zostanie uruchomiony serwer z naszą podatną
 
 <br>
 
-## Zadanie 1
+## Zadanie 0
 Pod podanym linkiem znajduje się interaktywny tutorial przedstawiający jak wyglądał hack na Capital One, wspomniany w prezentacji.Jako rozwiązanie wystarczy przesłać screenshot z ostatniego panelu tutorialu.
 https://application.security/free-application-security-training/server-side-request-forgery-in-capital-one
 
 <br>
 
-## Zadanie 2
+## Zadanie 1
 Zadanie polega na uzyskaniu zasobu, który jest dostępny tylko z poziomu serwera. Użyj Inspect. Jako raport wyślij zrzut ekranu i zmodyfikowane zapytanie, jakie zostało użyte. 
 <details>
 <summary>Hint</summary>
@@ -20,7 +20,7 @@ Zadanie polega na uzyskaniu zasobu, który jest dostępny tylko z poziomu serwer
 </details>
 <br>
 
-## Zadanie 3
+## Zadanie 2
 Należy uzyskać dostęp do zdjęcia znajdującego się w folderze /local/secret, który chroniony jest blacklistą.
 Można to zrobić na różne sposoby:
 - Sposób 1: Blacklistę można ominąć tworząc własną stronę, która przekierowuje na adres localhost z odpowiednią ściężką do zasobu. W tym celu:
@@ -31,5 +31,5 @@ Można to zrobić na różne sposoby:
 
 <br>
 
-## Zadanie 4
+## Zadanie 3
 Trzeba dostać się do pliku /secret/file. Aplikacja blokuje wszystkie zasoby pod adresem /secret za pomocą 2-elementowej whitelisty. Dla uproszczenia została stworzona [lista](list.txt), na której znajdują się dozwolone nazwy hostów. Sugerujemy skorzystać z narzędzia Intruder z programu Burp Suite.
