@@ -37,15 +37,25 @@ Zadanie polega na uzyskaniu zasobu, który jest dostępny tylko z poziomu serwer
 <br>
 
 ## Zadanie 2
-Należy uzyskać dostęp do zdjęcia znajdującego się w folderze /local/secret, który chroniony jest blacklistą.
+Należy uzyskać dostęp do zdjęcia o nazwie image.jpg znajdującego się w folderze /local/secret, który chroniony jest blacklistą.
 Można to zrobić na różne sposoby:
 - Sposób 1: Blacklistę można ominąć tworząc własną stronę, która przekierowuje na adres localhost z odpowiednią ściężką do zasobu. W tym celu:
 	- uruchom xampp'a, następnie edytuj plik index.php
 	- skorzystaj z funkcji [header](https://www.php.net/manual/en/function.header.php)
-
 - Sposób 2: można próbować wpisywać różne payload'y i liczyć na to, że nie są na blackliście :D
 
+<br>
+
+<details>
+<summary>Hint do sposobu 1</summary>
+  <br>
+ <ul><li>Wpisz w odpowiednim miejscu adres serwera XAMPP (jako adres interfejsu sieciowego)</li></ul>
+</details>
+
+<br>
+
 Jako raport wyślij zrzut ekranu z uzyskanym zdjęciem i użytem adresem URL.
+
 <br>
 
 ## Zadanie 3
