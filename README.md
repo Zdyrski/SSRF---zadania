@@ -54,7 +54,7 @@ Można to zrobić na różne sposoby:
 
 <br>
 
-Jako raport wyślij zrzut ekranu z uzyskanym zdjęciem i użytem adresem URL.
+Jako raport wyślij zrzut ekranu z uzyskanym zdjęciem i użytym adresem URL.
 
 <br>
 
